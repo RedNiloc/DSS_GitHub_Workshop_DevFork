@@ -5,7 +5,7 @@
 
 <h2>📋 Task List</h2>
 
-<details open>
+<details>
   <summary><b>1. Fork and Clone</b></summary>
   <ul>
     <li><b>Fork</b> the repository on GitHub to create your own copy.</li>
@@ -13,7 +13,7 @@
   </ul>
 </details>
 
-<details open>
+<details>
   <summary><b>2. Set Up Your Branch</b></summary>
   <ul>
     <li>Create a <b>new branch</b> using your name.</li>
@@ -21,7 +21,7 @@
   </ul>
 </details>
 
-<details open>
+<details>
   <summary><b>3. Create a README.md</b></summary>
   <ul>
     <li>Add a new file named <code>README.md</code>.</li>
@@ -35,7 +35,7 @@
   </ul>
 </details>
 
-<details open>
+<details>
   <summary><b>4. Track and Commit</b></summary>
   <ul>
     <li>Use <code>git status</code> to review which files have been modified.</li>
@@ -45,7 +45,7 @@
   </ul>
 </details>
 
-<details open>
+<details>
   <summary><b>5. Push Your Changes</b></summary>
   <ul>
     <li>Use <code>git pull</code> first to stay up to date.</li>
