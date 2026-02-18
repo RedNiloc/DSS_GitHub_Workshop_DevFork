@@ -1,9 +1,9 @@
-Your Name: 
+Your Name: Colin Harris
 
-Favorite Food:
+Favorite Food: Fedechini Alfrado
 
-Favorite Color:
+Favorite Color: Red
 
-Favorite Git Command:
+Favorite Git Command: I enjoy pushing my changes.
 
-Favorite Building at UC Merced:
+Favorite Building at UC Merced: D.C, based on atmosphere.
